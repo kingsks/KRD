@@ -10,13 +10,14 @@ ANJAYYYYY MELEDAKKKK hahahaahahahhahaah
 />🤡
 
 PERINTAHNYA
-pkg update
-pkg upgrade
-pkg install python
-pkg install python2
-pkg install git
-pip install mechanize
-pip install bash
-pip install studiomask
-git clone 
+$pkg update
+$pkg upgrade
+$pkg install python
+$pkg install python2
+$pkg install git
+$pip install mechanize
+$pip install bash
+$pip install studiomask
+$git clone 
+
 
