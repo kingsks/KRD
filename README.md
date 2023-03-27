@@ -1,3 +1,19 @@
+# krd rstm
+
+
+### screenshot aplikasi
+
+
+
+
+<img src="https://github.com/kingsks/KRD/issues/3#issue-1642567362" width="600px">  
+
+
+
+
+
+
+
 # KRD
 Script untuk crack akun FACEBOOK
 ATAU MALING AKUN FACEBOOK ORANG WKWKW
