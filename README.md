@@ -1,4 +1,4 @@
-# krd rstm
+# krd-rstm
 
 
 ### Foto 
@@ -19,8 +19,8 @@ Script untuk crack akun FACEBOOK
 ATAU MALING AKUN FACEBOOK ORANG WKWKW
 
 #PERINTAHNYA
-##pkg update
-##Pkg upgrade
+#pkg update
+#Pkg upgrade
 ##Pkg install python
 ##Pkg install git
 ##Pkg install studiomask
