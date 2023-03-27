@@ -43,7 +43,7 @@
 # krd-rstm
 
 
-### memu script
+### menu script
 
 <img src="https://user-images.githubusercontent.com/117046930/228034115-b51670a7-aed0-49d5-a1c6-38fffbfec074.jpg" width="600px">
 
